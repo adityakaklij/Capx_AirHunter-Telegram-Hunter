@@ -44,21 +44,7 @@ For a visual walkthrough of the app, check out our demo video here: [Project Dem
 - **Function**: Receive comprehensive, step-by-step instructions on how to claim your airdropped tokens.
 - **Purpose**: Ensures that you can successfully claim your tokens with minimal confusion by providing clear and actionable guidance.
 
+
 ## Getting Started
 
-To start using the Airdrop Hunting using CapX Telegram Mini App, follow these steps:
-
-1. **Search for the App**:
-   - Open Telegram and search for “Airdrop Hunting using CapX” in the app directory.
-
-2. **Start the App**:
-   - Initiate a chat with the bot to begin interacting with the app.
-
-3. **Select Blockchain**:
-   - Choose your preferred blockchain network from the available options.
-
-4. **Discover Airdrops**:
-   - Navigate to the sections for Upcoming and Live Airdrops to explore available opportunities.
-
-5. **View Details and Claim Tokens**:
-   - Access detailed information about each airdrop and follow the provided instructions to claim your tokens.
+Visit the Telegram bot: [@Capx_AirHunter_bot](https://t.me/Capx_AirHunter_bot)
